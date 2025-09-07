@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rohan Sharma
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me rohansharma1996@gmail.com
 - **Hackerrank profile:** https://www.hackerrank.com/rohansharma1996
